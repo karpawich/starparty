@@ -1,8 +1,6 @@
 # what is a star party?
 A star party is an open-source celebration for nerds.
 
-![Screenshot](/screenshot.png)
-
 ## brief description
 In a star party, you and your open-source pals get together and star each others' GitHub repos to show your appreciation for each others' awesome work! Typically, a star party is thrown in the form of a shared webpage with a big & mysterious button in the center.
 
