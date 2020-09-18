@@ -7,7 +7,7 @@ In a star party, you and your open-source pals get together and star each others
 
 ## what does the big button do?
 
-When you click the big & mysterious button, it should open up a new tab for each of the GitHub repos that you are celebrating in your star party! You can now star each repo one at a time, closing each tab as you cha-cha along. Make sure to be logged in first!
+When you click the big & mysterious button, it should open up a new tab for each of the GitHub repos that you are celebrating in your star party! You can now star each repo one at a time, closing each tab as you cha-cha along. Make sure to be logged in first, or else you'll have to refresh every new tab that opens to login after.
 
 ## how do I host my own star party?
 
